@@ -83,4 +83,4 @@ To explore it, download `Riyadh-Air-Quality.pbix` and open it in [Power BI Deskt
 
 ## Data source
 
-Riyadh air quality readings, 2019–2020. Source: [ADD DATASET LINK HERE]
+Riyadh air quality readings, 2019–2020. Source: [KAPSARC Data Portal – Air Quality](https://data.kapsarc.org/explore/assets/air-quality/)
